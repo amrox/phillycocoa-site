@@ -1,0 +1,18 @@
+# Built-in 
+filters_pre:
+    - "erb"
+    - "bluecloth"
+extension: html
+filters_post: []
+skip_output: false
+filename: index
+custom_path: 
+layout: simple
+
+# Custom
+
+
+has_full_title: false
+base_url:       http://phillycocoa.org
+author_name:    PhillyCocoa
+author_uri:     http://phillycocoa.org

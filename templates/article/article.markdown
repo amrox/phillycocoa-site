@@ -1,0 +1,1 @@
+Hi, I'm a new template. Please edit me!

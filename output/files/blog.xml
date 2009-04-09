@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://phillycocoa.org/</id>
+  <title>PhillyCocoa News</title>
+  <updated>2009-04-06T02:33:19Z</updated>
+  <link rel="alternate" href="http://phillycocoa.org"/>
+  <link rel="self" href="http://phillycocoa.org/files/blog.xml"/>
+  <author>
+    <name>PhillyCocoa</name>
+    <uri>http://phillycocoa.org</uri>
+  </author>
+  <entry>
+    <id>tag:phillycocoa.org,2009-04-06:/2009-04-05/</id>
+    <title type="html">CocoaHeads April 2009 Meeting Agenda</title>
+    <published>2009-04-06T02:33:19Z</published>
+    <updated>2009-04-09T03:17:31Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2009-04-05/"/>
+    <content type="html">&lt;p&gt;Next CocoaHeads meeting is Thursday, April 9th at Indy Hall&#160;
+&lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
+&lt;li&gt;Show &amp;amp; Tell 
+&lt;ul&gt;
+&lt;li&gt;Mike Zornek will demo his latest application, code-named &#8220;Profit Train&#8221;&lt;/li&gt;
+&lt;li&gt;Andy Mroczkowski will launch a (very) small new open source application, and talk about unit testing and the Google Toolbox for Mac.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Mac Programming Foundations Class announcement&lt;/li&gt;
+&lt;li&gt;Open Hack - Bring projects and questions&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:phillycocoa.org,2009-03-09:/2009-03-09/</id>
+    <title type="html">CocoaHeads March 2009 Meeting Agenda</title>
+    <published>2009-03-09T22:56:02Z</published>
+    <updated>2009-04-09T03:17:21Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2009-03-09/"/>
+    <content type="html">&lt;p&gt;Next CocoaHeads meeting is Thursday, March 12th at Indy Hall&#160;
+&lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
+&lt;li&gt;Show &amp;amp; Tell 
+&lt;ul&gt;
+&lt;li&gt;Far McKon will discuss the Image Capture system and cool stuff coming from Neat R&amp;amp;D&lt;/li&gt;
+&lt;li&gt;Corey Floyd and his team will demo their new iPhone app &lt;a href="http://www.amdshealth.com/Site/Compounds.html"&gt;Compounds&lt;/a&gt; and talk about their iPhone development experience&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Cocoa Beginner Class - we&#8217;ll talk about our current thinking and plans on the subject&lt;/li&gt;
+&lt;li&gt;Open Hack - Bring projects and questions&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:phillycocoa.org,2009-02-17:/2009-02-17/</id>
+    <title type="html">CocoaHeads February 2009 Meeting Recap</title>
+    <published>2009-02-18T03:10:01Z</published>
+    <updated>2009-04-09T03:10:54Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2009-02-17/"/>
+    <content type="html">&lt;p&gt;Great turnout - thanks to everyone who participated!&lt;/p&gt;
+
+&lt;h3&gt;Project Calculator Updates&lt;/h3&gt;
+
+&lt;p&gt;By request, more comments were added, and variable names clarified in the existing Calculator source code.  No functionality has changed.  The source for the Calculator project can be found &lt;a href="http://github.com/phillycocoa/projectcalculator/tree/master"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Learning Cocoa&lt;/h3&gt;
+
+&lt;p&gt;We are beginning to gather ideas about how to best serve the growing population of attendees who are new to Cocoa.  A lightweight Cocoa &#8220;class&#8221; is being considered, but we need feedback on content, structure, and schedule from our target audience.&lt;/p&gt;
+
+&lt;p&gt;Please visit the &lt;a href="http://groups.google.com/group/phillycocoa"&gt;PhillyCocoa Google group&lt;/a&gt; to contribute to the discussion.&lt;/p&gt;
+
+&lt;h3&gt;Next Meeting - March 12th 2009&lt;/h3&gt;
+
+&lt;p&gt;Our &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;next meeting&lt;/a&gt; is March 12th, 7-9P and &lt;a href="http://www.indyhall.org"&gt;IndyHall&lt;/a&gt;.  Far McKon is on schedule to discuss and demo some cool stuff using the Image Capture framework.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:phillycocoa.org,2009-02-11:/2009-02-11/</id>
+    <title type="html">CocoaHeads February 2009 Meeting Agenda</title>
+    <published>2009-02-12T02:28:46Z</published>
+    <updated>2009-04-09T03:16:56Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2009-02-11/"/>
+    <content type="html">&lt;p&gt;Next CocoaHeads meeting is Thursday, February 12th at Indy Hall&#160;
+&lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;p&gt;After group introductions, Michael Zornek (&lt;a href="http://twitter.com/zorn"&gt;@zorn&lt;/a&gt;) has volunteered to give a brief overview of &lt;a href="http://github.com/rentzsch/jrfeedbackprovider/tree/master"&gt;JRFeedbackProvider&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Following, we will break out into groups to continue work on &lt;a href="http://github.com/phillycocoa/projectcalculator/tree/master"&gt;Project Calculator&lt;/a&gt; (or code that you brought with you if you prefer).&lt;/p&gt;
+
+&lt;h3&gt;Project Calculator Starting Point&lt;/h3&gt;
+
+&lt;p&gt;A &lt;a href="http://github.com/phillycocoa/projectcalculator/tree/2efcedb4866ca829a60f83e9fc0f0843dce713da/trunk"&gt;starting point&lt;/a&gt; for the Calculator project has been posted on github.&#160; It is based &lt;a href="http://twitter.com/jallum"&gt;@jallum&lt;/a&gt;'s group's work from last meeting.&#160; The current trunk version now does basic integer arithmetic.&lt;/p&gt;
+
+&lt;p&gt;See you there!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:phillycocoa.org,2009-01-19:/2009-01-19/</id>
+    <title type="html">GitHub Repository</title>
+    <published>2009-01-20T02:46:14Z</published>
+    <updated>2009-04-09T03:16:40Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2009-01-19/"/>
+    <content type="html">&lt;p&gt;GitHub repository has been created for sharing our Project Calculator code.&lt;/p&gt;
+
+&lt;p&gt;Here&#8217;s the link:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://github.com/phillycocoa/projectcalculator/tree/master"&gt;http://github.com/phillycocoa/projectcalculator/tree/master&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>

@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "erb"
+filters_post: []
+extension:  "xml"
+layout:     "none"
+
+# Custom
+is_hidden:  "false"
+title:      "PhillyCocoa News"
+feed_url:   "http://phillycocoa.org/files/blog.xml"
+custom_path: "/files/blog.xml"

@@ -1,0 +1,8 @@
+# Built-in
+filters_pre:
+- "erb"
+#extension:  "html"
+#layout:     "simple"
+
+# Custom 
+title: News
