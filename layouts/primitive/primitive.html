@@ -34,13 +34,31 @@
 					of any list item to 'active' to make it, well, active.
 			-->
 
-			<li id="first" class="active"><a href="#">News</a></li>
-			<li><a href="#">Classes</a></li>
-			<li><a href="#">About</a></li>
+			<!-- TODO: be nice if there was a more elegant way -->
+			
+			<% if @page.section == 'news' or @page.kind == 'article' %>
+				<li class="active"><a href="/">News</a></li>
+			<% else %>
+				<li><a href="/">News</a></li>
+			<% end %>
+
+			<% if @page.section == 'classes' %>
+				<li class="active"><a href="/classes/">Classes</a></li>
+			<% else %>
+				<li><a href="/classes/">Classes</a></li>
+			<% end %>
+			
+			<% if @page.section == 'about' %>
+				<li class="active"><a href="/about/">About</a></li>
+			<% else %>
+				<li><a href="/about/">About</a></li>
+			<% end %>
+			
 		</ul>
 
-		<div></div>
-
+		<!-- empty div. not sure why its needed but it makes things work -->
+		<div></div>  
+		
 	</div>
 
 
@@ -52,13 +70,13 @@
 				<% if @page.kind == 'article' %>
 					<!-- title -->
 					<% if @page.title? %>
-						<h1 class="blog-entry-title"><%=h @page.title %></h1>
+						<h2 class="article-entry-title"><%=h @page.title %></h2>
 					<% else %>
-						<h1 class="blog-entry-title"><span><%= @page.created_at.localtime.format_as_date %></h1>
+						<h2 class="article-entry-title"><span><%= @page.created_at.localtime.format_as_date %></h2>
 					<% end %>
 
 					<!-- meta -->
-					<div class="blog-entry-date"><%= @page.created_at.localtime.format_as_date %>.</div>
+					<div class="article-entry-date"><%= @page.created_at.localtime.format_as_date %>.</div>
 				<% end %>
 			
 				<%= @page.content %>
@@ -71,9 +89,7 @@
 	<div class="clearer"></div>
 	
 	<div id="footer">
-		<p>
 			© 2009 PhillyCocoa.org <a href="#" id="rw_email_contact" name="rw_email_contact">Contact Us</a>
-		</p>
 	</div><!-- End Footer -->
 
 <!-- Start Google Analytics -->

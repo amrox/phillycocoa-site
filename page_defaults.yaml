@@ -7,7 +7,7 @@ filters_post: []
 skip_output: false
 filename: index
 custom_path: 
-layout: simple
+layout: primitive
 
 # Custom
 
