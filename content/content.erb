@@ -1,16 +1,16 @@
 <% sorted_articles.first(10).each do |article| %>
 	<!-- article section -->
-	<div class="blog-entry" id="blog-<%= article.created_at.localtime.format_as_date_id %>">
+	<div class="article-entry" id="blog-<%= article.created_at.localtime.format_as_date_id %>">
 		
 		<!-- title -->
 		<% if @page.title? %>
-			<h1 class="blog-entry-title"><%= link_to article.title, article %></h1>
+			<h2 class="article-entry-title"><%= link_to article.title, article %></h2>
 		<% else %>
-			<h1 class="blog-entry-title"><span><%= article.created_at.localtime.format_as_date %></h1>
+			<h2 class="article-entry-title"><span><%= article.created_at.localtime.format_as_date %></h2>
 		<% end %>
 
 		<!-- meta -->
-		<div class="blog-entry-date"><%= article.created_at.localtime.format_as_date %>.</div>
+		<div class="article-entry-date"><%= article.created_at.localtime.format_as_date %>.</div>
 
 		<!-- content -->
 		<%= article.content %>
