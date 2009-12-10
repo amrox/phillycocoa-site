@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://phillycocoa.org/</id>
   <title>PhillyCocoa News</title>
-  <updated>2009-11-18T04:16:04Z</updated>
+  <updated>2009-12-10T01:55:08Z</updated>
   <link rel="alternate" href="http://phillycocoa.org"/>
   <link rel="self" href="http://phillycocoa.org/files/blog.xml"/>
   <author>
@@ -10,7 +10,26 @@
     <uri>http://phillycocoa.org</uri>
   </author>
   <entry>
-    <id>tag:phillycocoa.org,2009-11-18:/2009-11-17/</id>
+    <id>tag:phillycocoa.org,2009-12-10:/2009-12-09/</id>
+    <title type="html">CocoaHeads Decemeber 2009 Meeting Agenda</title>
+    <published>2009-12-10T01:55:08Z</published>
+    <updated>2009-12-10T02:13:23Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2009-12-09/"/>
+    <content type="html">&lt;p&gt;Next CocoaHeads meeting is &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, December 10th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We don't have any scheduled talks this month.  Instead we'll do a year in review, as well as discussing what we'd like to do the following year.  Come with thoughts and ideas, or just come to hang out.  They'll likely be food and beers involved.&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
+&lt;li&gt;General News&lt;/li&gt;
+&lt;li&gt;Social Hour&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:phillycocoa.org,2009-11-17:/2009-11-17/</id>
     <title type="html">CocoaHeads November 2009 Meeting Agenda</title>
     <published>2009-11-18T04:16:04Z</published>
     <updated>2009-12-10T01:52:06Z</updated>
@@ -135,34 +154,6 @@ Andy Mroczkowski will give a brief overview of the new Image Capture Core framew
 &lt;li&gt;Common Lisp on the Mac - Philip Fominykh&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Open Hack - Bring projects and questions&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:phillycocoa.org,2009-07-08:/2009-07-08/</id>
-    <title type="html">CocoaHeads July 2009 Meeting Agenda</title>
-    <published>2009-07-08T18:04:35Z</published>
-    <updated>2009-12-08T04:36:20Z</updated>
-    <link rel="alternate" href="http://phillycocoa.org/2009-07-08/"/>
-    <content type="html">&lt;p&gt;&lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Next CocoaHeads meeting&lt;/a&gt; is &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, July 9th&lt;/a&gt; at Indy Hall&#160;Classic (same place, new (temporary) name).&lt;/p&gt;
-
-&lt;p&gt;This month, the developers from &lt;a href="http://labs.laan.com/"&gt;labs @ laan&lt;/a&gt; will talk about bringing &lt;a href="http://labs.laan.com/blog/2009/06/tweetdeck-to-small-screen/"&gt;TweetDeck to the small screen&lt;/a&gt;.  We'll also might talk about some more of those &lt;em&gt;exciting new technologies&lt;/em&gt; that have been popping up lately.&lt;/p&gt;
-
-&lt;h3&gt;Agenda&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
-&lt;li&gt;General News&lt;/li&gt;
-&lt;li&gt;iPhoneDevCamp Updates&lt;/li&gt;
-&lt;li&gt;Scheduled Talks
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://labs.laan.com/blog/2009/06/tweetdeck-to-small-screen/"&gt;Bringing TweetDeck to the small screen&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Something &lt;em&gt;new&lt;/em&gt; and &lt;em&gt;exciting&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Show and Tell, Open Talks&lt;/li&gt;
 &lt;li&gt;Open Hack - Bring projects and questions&lt;/li&gt;
 &lt;/ul&gt;
 </content>
