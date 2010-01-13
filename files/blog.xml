@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://phillycocoa.org/</id>
   <title>PhillyCocoa News</title>
-  <updated>2009-12-16T02:53:03Z</updated>
+  <updated>2010-01-13T02:50:12Z</updated>
   <link rel="alternate" href="http://phillycocoa.org"/>
   <link rel="self" href="http://phillycocoa.org/files/blog.xml"/>
   <author>
@@ -10,10 +10,43 @@
     <uri>http://phillycocoa.org</uri>
   </author>
   <entry>
-    <id>tag:phillycocoa.org,2009-12-16:/2009-12-15/</id>
+    <id>tag:phillycocoa.org,2010-01-13:/2010-01-12/</id>
+    <title type="html">CocoaHeads January 2010 Meeting Agenda</title>
+    <published>2010-01-13T02:50:12Z</published>
+    <updated>2010-01-13T03:21:34Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2010-01-12/"/>
+    <content type="html">&lt;p&gt;Next CocoaHeads meeting is &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, January  14th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We're getting 2010 off to a great start with a couple great minitalks. The schedule is still open for Show &amp;amp; Tell or hacking on some code.&lt;/p&gt;
+
+&lt;p&gt;See you then!&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
+&lt;li&gt;General News&lt;/li&gt;
+&lt;li&gt;Show &amp;amp; Tell
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://twitter.com/amrox"&gt;Andy Mroczkowski&lt;/a&gt; will demo a little open-source control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Minitalks
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://twitter.com/fjalapeno"&gt;Corey Floyd&lt;/a&gt; will talk a little bit about &lt;a href="http://developer.apple.com/iphone/library/documentation/CoreData/Reference/NSFetchedResultsController_Class/Reference/Reference.html"&gt;NSFetchedResultsController&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://twitter.com/amrox"&gt;Andy Mroczkowski&lt;/a&gt; will share some of his experiences dabbling in the &lt;a href="http://developer.apple.com/mac/library/documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html"&gt;Objective-C Runtime&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:phillycocoa.org,2009-12-15:/2009-12-15/</id>
     <title type="html">PhillyCocoa.org Hosting</title>
     <published>2009-12-16T02:53:03Z</published>
-    <updated>2009-12-16T03:14:44Z</updated>
+    <updated>2009-12-16T03:17:20Z</updated>
     <link rel="alternate" href="http://phillycocoa.org/2009-12-15/"/>
     <content type="html">&lt;p&gt;The &lt;a href="http://github.com/amrox/phillycocoa-site/tree/master"&gt;source&lt;/a&gt; &lt;em&gt;and&lt;/em&gt;
 &lt;a href="http://github.com/amrox/phillycocoa-site/tree/gh-pages"&gt;content&lt;/a&gt; for
@@ -147,36 +180,6 @@ your ideas.&lt;/p&gt;</content>
 
 &lt;ul&gt;
 &lt;li&gt;HTTP Live Streaming&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Show and Tell, Open Talks&lt;/li&gt;
-&lt;li&gt;Open Hack - Bring projects and questions&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:phillycocoa.org,2009-10-14:/2009-10-14/</id>
-    <title type="html">CocoaHeads October 2009 Meeting Agenda</title>
-    <published>2009-10-15T00:21:16Z</published>
-    <updated>2009-12-08T04:36:20Z</updated>
-    <link rel="alternate" href="http://phillycocoa.org/2009-10-14/"/>
-    <content type="html">&lt;p&gt;&lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Next CocoaHeads meeting&lt;/a&gt; is &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, October 15th&lt;/a&gt; at Indy Hall (&lt;strong&gt;NEW LOCATION&lt;/strong&gt;).&lt;/p&gt;
-
-&lt;p&gt;After much discussion, we sorted out the location situation, and we're staying at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;!  The location is just a few blocks away from where we previously met.&lt;/p&gt;
-
-&lt;p&gt;This month, Rob Hall (&lt;a href="http://twitter.com/rhall"&gt;@rhall&lt;/a&gt;) will talk about the newly-announced capability of using Flash to develop iPhone applications.&lt;/p&gt;
-
-&lt;p&gt;There is still plenty of room on the schedule for talks or show &amp;amp; tell!&lt;/p&gt;
-
-&lt;h3&gt;Agenda&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
-&lt;li&gt;General News&lt;/li&gt;
-&lt;li&gt;Scheduled Talks
-
-&lt;ul&gt;
-&lt;li&gt;Flash for iPhone Apps&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Show and Tell, Open Talks&lt;/li&gt;
