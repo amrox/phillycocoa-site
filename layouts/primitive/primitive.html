@@ -42,6 +42,12 @@
 			<% else %>
 				<li><a href="/">News</a></li>
 			<% end %>
+			
+			<% if @page.section == 'calendar' %>
+				<li class="active"><a href="/calendar/"">Calendar</a></li>
+			<% else %>
+				<li><a href="/calendar/"">Calendar</a></li>
+			<% end %>
 
 			<% if @page.section == 'classes' %>
 				<li class="active"><a href="/classes/">Classes</a></li>
