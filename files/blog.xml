@@ -2,13 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://phillycocoa.org/</id>
   <title>PhillyCocoa News</title>
-  <updated>2010-02-07T17:59:29Z</updated>
+  <updated>2010-02-11T22:03:18Z</updated>
   <link rel="alternate" href="http://phillycocoa.org"/>
   <link rel="self" href="http://phillycocoa.org/files/blog.xml"/>
   <author>
     <name>PhillyCocoa</name>
     <uri>http://phillycocoa.org</uri>
   </author>
+  <entry>
+    <id>tag:phillycocoa.org,2010-02-11:/2010-02-11/</id>
+    <title type="html">Tonight's CocoaHeads meeting is postponed</title>
+    <published>2010-02-11T22:03:18Z</published>
+    <updated>2010-02-11T22:07:27Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2010-02-11/"/>
+    <content type="html">&lt;h2&gt;Tonight's CocoaHeads meeting is &lt;strong&gt;postponed&lt;/strong&gt;.&lt;/h2&gt;
+
+&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, February 18th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;iPhone SDK 3.2 with support for the new iPad was just announced this month, so we'll definitely have a lot to talk about!&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
+&lt;li&gt;General News
+
+&lt;ul&gt;
+&lt;li&gt;Website updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Show &amp;amp; Tell
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://twitter.com/fjalapeno"&gt;Corey Floyd&lt;/a&gt; will demo the prototype of our Philly Beer Week app&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Minitalks
+
+&lt;ul&gt;
+&lt;li&gt;iPhone 3.2/iPad topics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:phillycocoa.org,2010-02-07:/2010-02-07/</id>
     <title type="html">CocoaHeads February 2010 Meeting Agenda</title>
@@ -174,24 +211,5 @@ organization of their own free will, we should provide an avenue to do so.&lt;/l
 &lt;p&gt;Thanks for being with us in 2009, and we look forward to an even better 2010.
 If you have any additional thoughts, please hop on the mailing list and share
 your ideas.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:phillycocoa.org,2009-12-09:/2009-12-09/</id>
-    <title type="html">CocoaHeads Decemeber 2009 Meeting Agenda</title>
-    <published>2009-12-10T01:55:08Z</published>
-    <updated>2010-02-09T03:37:59Z</updated>
-    <link rel="alternate" href="http://phillycocoa.org/2009-12-09/"/>
-    <content type="html">&lt;p&gt;Next CocoaHeads meeting is &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, December 10th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We don't have any scheduled talks this month.  Instead we'll do a year in review, as well as discussing what we'd like to do the following year.  Come with thoughts and ideas, or just come to hang out.  They'll likely be food and beers involved.&lt;/p&gt;
-
-&lt;h3&gt;Agenda&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
-&lt;li&gt;General News&lt;/li&gt;
-&lt;li&gt;Social Hour&lt;/li&gt;
-&lt;/ul&gt;
-</content>
   </entry>
 </feed>
