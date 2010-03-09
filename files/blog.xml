@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://phillycocoa.org/</id>
   <title>PhillyCocoa News</title>
-  <updated>2010-02-16T02:47:21Z</updated>
+  <updated>2010-03-09T05:10:23Z</updated>
   <link rel="alternate" href="http://phillycocoa.org"/>
   <link rel="self" href="http://phillycocoa.org/files/blog.xml"/>
   <author>
@@ -10,7 +10,38 @@
     <uri>http://phillycocoa.org</uri>
   </author>
   <entry>
-    <id>tag:phillycocoa.org,2010-02-16:/2010-02-15/</id>
+    <id>tag:phillycocoa.org,2010-03-09:/2010-03-09/</id>
+    <title type="html">CocoaHeads March 2010 Meeting Agenda</title>
+    <published>2010-03-09T05:10:23Z</published>
+    <updated>2010-03-09T05:11:43Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2010-03-09/"/>
+    <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, March 11th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With the iPad release just around the corner, we'll have plenty to talk about!&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
+&lt;li&gt;General News
+
+&lt;ul&gt;
+&lt;li&gt;Website updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Show &amp;amp; Tell
+Week app&lt;/li&gt;
+&lt;li&gt;Minitalks
+
+&lt;ul&gt;
+&lt;li&gt;iPhone 3.2/iPad topics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:phillycocoa.org,2010-02-15:/2010-02-15/</id>
     <title type="html">CocoaHeads February 2010 Meeting Agenda (Redux)</title>
     <published>2010-02-16T02:47:21Z</published>
     <updated>2010-02-16T02:48:51Z</updated>
@@ -121,21 +152,5 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-  </entry>
-  <entry>
-    <id>tag:phillycocoa.org,2009-12-15:/2009-12-15/</id>
-    <title type="html">PhillyCocoa.org Hosting</title>
-    <published>2009-12-16T02:53:03Z</published>
-    <updated>2010-02-09T03:37:59Z</updated>
-    <link rel="alternate" href="http://phillycocoa.org/2009-12-15/"/>
-    <content type="html">&lt;p&gt;The &lt;a href="http://github.com/amrox/phillycocoa-site/tree/master"&gt;source&lt;/a&gt; &lt;em&gt;and&lt;/em&gt;
-&lt;a href="http://github.com/amrox/phillycocoa-site/tree/gh-pages"&gt;content&lt;/a&gt; for
-&lt;a href="http://phillycocoa.org"&gt;phillycocoa.org&lt;/a&gt; are now hosted on
-GitHub, using the &lt;a href="http://pages.github.com/"&gt;GitHub Pages&lt;/a&gt; feature. Static HTML
-content is generated using &lt;a href="http://nanoc.stoneship.org/"&gt;nanoc&lt;/a&gt; version
-2.2.2, though we are considering migrating to
-&lt;a href="http://github.com/mojombo/jekyll"&gt;Jekyll&lt;/a&gt;.  The site's design was
-intentionally &lt;a href="http://www.freecsstemplates.org/preview/primitive"&gt;primitive&lt;/a&gt;,
-but if you'd like to see a facelift, patches are welcome.&lt;/p&gt;</content>
   </entry>
 </feed>
