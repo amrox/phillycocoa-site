@@ -2,13 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://phillycocoa.org/</id>
   <title>PhillyCocoa News</title>
-  <updated>2010-03-09T05:10:23Z</updated>
+  <updated>2010-04-07T14:58:38Z</updated>
   <link rel="alternate" href="http://phillycocoa.org"/>
   <link rel="self" href="http://phillycocoa.org/files/blog.xml"/>
   <author>
     <name>PhillyCocoa</name>
     <uri>http://phillycocoa.org</uri>
   </author>
+  <entry>
+    <id>tag:phillycocoa.org,2010-04-07:/2010-04-07/</id>
+    <title type="html">CocoaHeads April 2010 Meeting Agenda</title>
+    <published>2010-04-07T14:58:38Z</published>
+    <updated>2010-04-07T15:19:29Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2010-04-07/"/>
+    <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, April 8th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The iPad has shipped, and iPhone OS will have been just announced -- it's a great time to be a Cocoa Developer!&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
+&lt;li&gt;General News&lt;/li&gt;
+&lt;li&gt;Show &amp;amp; Tell&lt;/li&gt;
+&lt;li&gt;Minitalks
+
+&lt;ul&gt;
+&lt;li&gt;CoreText on iPad - &lt;a href="http://twitter.com/flailmonger"&gt;Jake O'Brien&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Optimizing the Philly Beer Week app with Instruments - &lt;a href="http://twitter.com/mj1531"&gt;Michael James&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Core Data Threading and Performance Techniques - &lt;a href="http://twitter.com/amrox"&gt;Andy Mroczkowski&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:phillycocoa.org,2010-03-09:/2010-03-09/</id>
     <title type="html">CocoaHeads March 2010 Meeting Agenda</title>
@@ -115,39 +142,6 @@ Week app&lt;/li&gt;
 
 &lt;ul&gt;
 &lt;li&gt;iPhone 3.2/iPad topics&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:phillycocoa.org,2010-01-12:/2010-01-12/</id>
-    <title type="html">CocoaHeads January 2010 Meeting Agenda</title>
-    <published>2010-01-13T02:50:12Z</published>
-    <updated>2010-02-09T03:37:59Z</updated>
-    <link rel="alternate" href="http://phillycocoa.org/2010-01-12/"/>
-    <content type="html">&lt;p&gt;Next CocoaHeads meeting is &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, January  14th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We're getting 2010 off to a great start with a couple great minitalks. The schedule is still open for Show &amp;amp; Tell or hacking on some code.&lt;/p&gt;
-
-&lt;p&gt;See you then!&lt;/p&gt;
-
-&lt;h3&gt;Agenda&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
-&lt;li&gt;General News&lt;/li&gt;
-&lt;li&gt;Show &amp;amp; Tell
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://twitter.com/amrox"&gt;Andy Mroczkowski&lt;/a&gt; will demo a little open-source control&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Minitalks
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://twitter.com/fjalapeno"&gt;Corey Floyd&lt;/a&gt; will talk a little bit about &lt;a href="http://developer.apple.com/iphone/library/documentation/CoreData/Reference/NSFetchedResultsController_Class/Reference/Reference.html"&gt;NSFetchedResultsController&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://twitter.com/amrox"&gt;Andy Mroczkowski&lt;/a&gt; will share some of his experiences dabbling in the &lt;a href="http://developer.apple.com/mac/library/documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html"&gt;Objective-C Runtime&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
