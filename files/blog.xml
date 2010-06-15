@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://phillycocoa.org/</id>
   <title>PhillyCocoa News</title>
-  <updated>2010-05-11T03:14:58Z</updated>
+  <updated>2010-06-15T02:15:15Z</updated>
   <link rel="alternate" href="http://phillycocoa.org"/>
   <link rel="self" href="http://phillycocoa.org/files/blog.xml"/>
   <author>
@@ -10,10 +10,30 @@
     <uri>http://phillycocoa.org</uri>
   </author>
   <entry>
-    <id>tag:phillycocoa.org,2010-05-11:/2010-05-10/</id>
+    <id>tag:phillycocoa.org,2010-06-15:/2010-06-14/</id>
+    <title type="html">CocoaHeads June 2010 Meeting Agenda</title>
+    <published>2010-06-15T02:15:15Z</published>
+    <updated>2010-06-15T02:17:51Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2010-06-14/"/>
+    <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, June 16th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;June looks like a great meeting. Those who attended WWDC will share their experiences and key take-aways. Also, the release of iOS 4 to the general public is right around the corner. Learn what you need to do to prepare your app.&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
+&lt;li&gt;General News&lt;/li&gt;
+&lt;li&gt;Show &amp;amp; Tell&lt;/li&gt;
+&lt;li&gt;WWDC &amp;amp; iOS 4&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:phillycocoa.org,2010-05-10:/2010-05-10/</id>
     <title type="html">CocoaHeads May 2010 Meeting Agenda</title>
     <published>2010-05-11T03:14:58Z</published>
-    <updated>2010-05-11T03:22:30Z</updated>
+    <updated>2010-06-15T02:13:13Z</updated>
     <link rel="alternate" href="http://phillycocoa.org/2010-05-10/"/>
     <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, May 13th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
 
@@ -41,7 +61,7 @@
     <id>tag:phillycocoa.org,2010-04-07:/2010-04-07/</id>
     <title type="html">CocoaHeads April 2010 Meeting Agenda</title>
     <published>2010-04-07T14:58:38Z</published>
-    <updated>2010-04-07T15:19:29Z</updated>
+    <updated>2010-06-15T02:13:13Z</updated>
     <link rel="alternate" href="http://phillycocoa.org/2010-04-07/"/>
     <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, April 8th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
 
@@ -68,7 +88,7 @@
     <id>tag:phillycocoa.org,2010-03-09:/2010-03-09/</id>
     <title type="html">CocoaHeads March 2010 Meeting Agenda</title>
     <published>2010-03-09T05:10:23Z</published>
-    <updated>2010-03-09T05:11:43Z</updated>
+    <updated>2010-06-15T02:13:13Z</updated>
     <link rel="alternate" href="http://phillycocoa.org/2010-03-09/"/>
     <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, March 11th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
 
@@ -99,7 +119,7 @@ Week app&lt;/li&gt;
     <id>tag:phillycocoa.org,2010-02-15:/2010-02-15/</id>
     <title type="html">CocoaHeads February 2010 Meeting Agenda (Redux)</title>
     <published>2010-02-16T02:47:21Z</published>
-    <updated>2010-02-16T02:48:51Z</updated>
+    <updated>2010-06-15T02:13:13Z</updated>
     <link rel="alternate" href="http://phillycocoa.org/2010-02-15/"/>
     <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, February 18th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
 
@@ -129,15 +149,5 @@ Week app&lt;/li&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-  </entry>
-  <entry>
-    <id>tag:phillycocoa.org,2010-02-11:/2010-02-11/</id>
-    <title type="html">Tonight's CocoaHeads meeting is postponed</title>
-    <published>2010-02-11T22:03:18Z</published>
-    <updated>2010-02-16T02:49:31Z</updated>
-    <link rel="alternate" href="http://phillycocoa.org/2010-02-11/"/>
-    <content type="html">&lt;h2&gt;Tonight's CocoaHeads meeting is &lt;strong&gt;postponed&lt;/strong&gt;.&lt;/h2&gt;
-
-&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, February 18th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
 </feed>
