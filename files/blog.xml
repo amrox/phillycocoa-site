@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://phillycocoa.org/</id>
   <title>PhillyCocoa News</title>
-  <updated>2010-08-11T01:34:21Z</updated>
+  <updated>2010-09-08T12:28:45Z</updated>
   <link rel="alternate" href="http://phillycocoa.org"/>
   <link rel="self" href="http://phillycocoa.org/files/blog.xml"/>
   <author>
@@ -10,7 +10,35 @@
     <uri>http://phillycocoa.org</uri>
   </author>
   <entry>
-    <id>tag:phillycocoa.org,2010-08-11:/2010-08-10/</id>
+    <id>tag:phillycocoa.org,2010-09-08:/2010-09-08/</id>
+    <title type="html">CocoaHeads September 2010 Meeting Agenda</title>
+    <published>2010-09-08T12:28:45Z</published>
+    <updated>2010-09-08T12:57:46Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2010-09-08/"/>
+    <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, September 10th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This month we'll have a abbreviated meeting to accommodate the inaugural meeting of &lt;a href="http://shipitsociety.com/"&gt;The Ship It Society&lt;/a&gt;, starting at 8PM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please &lt;a href="https://spreadsheets.google.com/viewform?formkey=dGpCanhSZEZnNXc3dHFMeUdDc2R1M1E6MA"&gt;RSVP for the September 2010 meeting&lt;/a&gt; for a chance to win a free Cocoa programming related book from Pearson Technology..&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The agenda for the CocoaHeads meeting is still open. Please let us know if you want to share something.&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
+&lt;li&gt;General News
+
+&lt;ul&gt;
+&lt;li&gt;Voices that Matter Conference&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;8PM - Ship It Society&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:phillycocoa.org,2010-08-10:/2010-08-10/</id>
     <title type="html">CocoaHeads August 2010 Meeting Agenda</title>
     <published>2010-08-11T01:34:21Z</published>
     <updated>2010-08-11T01:44:12Z</updated>
@@ -117,33 +145,6 @@
 &lt;ul&gt;
 &lt;li&gt;New Audio Stuff - &lt;a href="http://twitter.com/amrox"&gt;Andy Mroczkowski&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;New Motion-y Stuff - &lt;a href="http://twitter.com/fjalapeno"&gt;Corey Floyd&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:phillycocoa.org,2010-04-07:/2010-04-07/</id>
-    <title type="html">CocoaHeads April 2010 Meeting Agenda</title>
-    <published>2010-04-07T14:58:38Z</published>
-    <updated>2010-06-15T02:13:13Z</updated>
-    <link rel="alternate" href="http://phillycocoa.org/2010-04-07/"/>
-    <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, April 8th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The iPad has shipped, and iPhone OS will have been just announced -- it's a great time to be a Cocoa Developer!&lt;/p&gt;
-
-&lt;h3&gt;Agenda&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
-&lt;li&gt;General News&lt;/li&gt;
-&lt;li&gt;Show &amp;amp; Tell&lt;/li&gt;
-&lt;li&gt;Minitalks
-
-&lt;ul&gt;
-&lt;li&gt;CoreText on iPad - &lt;a href="http://twitter.com/flailmonger"&gt;Jake O'Brien&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Optimizing the Philly Beer Week app with Instruments - &lt;a href="http://twitter.com/mj1531"&gt;Michael James&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Core Data Threading and Performance Techniques - &lt;a href="http://twitter.com/amrox"&gt;Andy Mroczkowski&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
