@@ -2,13 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://phillycocoa.org/</id>
   <title>PhillyCocoa News</title>
-  <updated>2010-09-08T12:28:45Z</updated>
+  <updated>2010-10-13T20:29:33Z</updated>
   <link rel="alternate" href="http://phillycocoa.org"/>
   <link rel="self" href="http://phillycocoa.org/files/blog.xml"/>
   <author>
     <name>PhillyCocoa</name>
     <uri>http://phillycocoa.org</uri>
   </author>
+  <entry>
+    <id>tag:phillycocoa.org,2010-10-13:/2010-10-13/</id>
+    <title type="html">A New Article</title>
+    <published>2010-10-13T20:29:33Z</published>
+    <updated>2010-10-13T20:39:35Z</updated>
+    <link rel="alternate" href="http://phillycocoa.org/2010-10-13/"/>
+    <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, October 14th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This month, we're back to our regular meeting format. We'll have an update on the &lt;a href="http://shipitsociety.com/"&gt;The Ship It Society&lt;/a&gt;, a talk on AVFoundation, and whatever else comes up. There is still room in the agenda, so please let us know if you want to share something.&lt;/p&gt;
+
+&lt;p&gt;Comcast has graciously offered to sponsor this meeting. Thanks, Comcast!&lt;/p&gt;
+
+&lt;p&gt;Also don't forget, the &lt;a href="http://www.voicesthatmatter.com/iphone2010/"&gt;Voices That Matter iPhone Developer Conference&lt;/a&gt; is this weekend in Philadelphia, and there is still space available.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please &lt;a href="https://spreadsheets.google.com/viewform?formkey=dGpCanhSZEZnNXc3dHFMeUdDc2R1M1E6MA"&gt;RSVP for the October 2010 meeting&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3&gt;Agenda&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
+&lt;li&gt;General News
+
+&lt;ul&gt;
+&lt;li&gt;Voices that Matter Conference&lt;/li&gt;
+&lt;li&gt;Ship It Society Update&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;MiniTalks
+
+&lt;ul&gt;
+&lt;li&gt;AVFoundation - &lt;a href="http://twitter.com/amrox"&gt;Andy Mroczkowski&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:phillycocoa.org,2010-09-08:/2010-09-08/</id>
     <title type="html">CocoaHeads September 2010 Meeting Agenda</title>
@@ -119,34 +155,6 @@
 &lt;li&gt;General News&lt;/li&gt;
 &lt;li&gt;Show &amp;amp; Tell&lt;/li&gt;
 &lt;li&gt;WWDC &amp;amp; iOS 4&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:phillycocoa.org,2010-05-10:/2010-05-10/</id>
-    <title type="html">CocoaHeads May 2010 Meeting Agenda</title>
-    <published>2010-05-11T03:14:58Z</published>
-    <updated>2010-06-15T02:13:13Z</updated>
-    <link rel="alternate" href="http://phillycocoa.org/2010-05-10/"/>
-    <content type="html">&lt;p&gt;Next CocoaHeads meeting will be &lt;a href="http://cocoaheads.org/us/PhiladelphiaPennsylvania/index.html"&gt;Thursday, May 13th&lt;/a&gt; at &lt;a href="http://indyhall.org"&gt;Indy Hall&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;WWDC is coming up, and the release of iPhone OS 4 is right around the corner. This month we'll be talking about "new stuff" that may or may not be related to the aformentioned iPhone OS release.&lt;/p&gt;
-
-&lt;p&gt;There is still space for another mini-talk if you also want to share some "new stuff".&lt;/p&gt;
-
-&lt;h3&gt;Agenda&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Meet &amp;amp; Greet - Communicate with other humans using the high bandwidth "face-to-face" protocol.&lt;/li&gt;
-&lt;li&gt;General News&lt;/li&gt;
-&lt;li&gt;Show &amp;amp; Tell&lt;/li&gt;
-&lt;li&gt;Minitalks
-
-&lt;ul&gt;
-&lt;li&gt;New Audio Stuff - &lt;a href="http://twitter.com/amrox"&gt;Andy Mroczkowski&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;New Motion-y Stuff - &lt;a href="http://twitter.com/fjalapeno"&gt;Corey Floyd&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
