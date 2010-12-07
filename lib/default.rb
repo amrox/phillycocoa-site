@@ -2,9 +2,9 @@
 # before nanoc starts compiling.
 
 # Default
-include Nanoc::Helpers::Blogging
-include Nanoc::Helpers::HTMLEscape
-include Nanoc::Helpers::LinkTo
+include Nanoc2::Helpers::Blogging
+include Nanoc2::Helpers::HTMLEscape
+include Nanoc2::Helpers::LinkTo
 
 
 class Time

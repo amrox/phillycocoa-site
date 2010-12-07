@@ -9,7 +9,7 @@ task :copy_skel do
 end
 
 task :compile do
-  system %{nanoc compile}
+  system %{nanoc2 compile}
 end
   
 task :default => [:copy_skel, :compile]
